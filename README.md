@@ -1,5 +1,10 @@
 # Keras_practice
 
+Resourses:
+https://keras.io/examples/vision/image_classification_from_scratch/
+
+Dataset:
+https://www.kaggle.com/navoneel/brain-mri-images-for-brain-tumor-detection
 
 Installation :
 
